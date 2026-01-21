@@ -1,0 +1,1 @@
+console.log(s[i], s[i + 1]);
