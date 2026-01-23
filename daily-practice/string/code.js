@@ -20,3 +20,11 @@ str.endsWith('Script'); // true
 let str3 = 'I love JavaScript';
 console.log(str3.replace('love', 'hate'));
 console.log(str3.replaceAll('a', 'A'));
+// ?Slice/substr/substring:
+let str4 = 'JavaScript';
+
+// let str5 = str4.slice(0, 4);
+// console.log(str5); //"Java"
+// let str5 = str4.substring(0, 4);
+// console.log(str5);
+// !But substring doesnt take negatvite index
